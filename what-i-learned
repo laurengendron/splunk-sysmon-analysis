@@ -1,0 +1,33 @@
+Through this project, I gained hands-on experience with ingesting, parsing, and analyzing Sysmon event logs in Splunk Cloud. Key lessons include:
+
+Log ingestion and indexing
+
+Uploading CSV data into Splunk Cloud and assigning the correct sourcetype and index.
+
+Understanding how Splunk processes and stores events for analysis.
+
+SPL (Search Processing Language) skills
+
+Writing queries to filter, sort, and summarize events.
+
+Creating tables and statistics to extract meaningful insights from raw data.
+
+Field extraction and event parsing
+
+Mapping CSV columns to searchable fields.
+
+Using automatic and manual field extraction to make network and process data actionable.
+
+Troubleshooting workflow
+
+Handling common issues like inactive indexes, license restrictions, and data formatting problems.
+
+Understanding the relationship between sourcetype, index, and searchable events.
+
+Portfolio and documentation skills
+
+Documenting a Splunk project for clarity and reproducibility.
+
+Organizing queries, screenshots, and datasets in a professional GitHub repository.
+
+This project strengthened my skills in SIEM, log analysis, and cybersecurity monitoring, preparing me for real-world use cases in IT security operations.
